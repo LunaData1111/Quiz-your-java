@@ -1,0 +1,32 @@
+body,html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background:black
+    height: 100%;
+}
+.game-box{
+    background: #e1dff9;
+    box-shadow: 0 10px 20px rgba(5, 0, 0, 0.19), 0 6px 6px rgba(0.,0,0,0.23);
+}
+.answer-item{
+    background: rgb(255, 255, 254);
+    width: 90%;
+    display: inline-block;
+    border-radius:8px;
+    padding: 3px;
+}
+#btn-start{
+    border:none;
+	padding:6px 0 6px 0;
+	border-radius:8px;
+	background:#258c9e;
+    font:bold 40px;
+	color:#fff;
+}
+
+#code-title{
+    text-align: center;
+    font-weight: bold;
+}
+
+/* This will bring life to colors and shapes of the functions */
